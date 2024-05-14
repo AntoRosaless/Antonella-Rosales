@@ -25,7 +25,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = ''> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-src="https://raw.githubusercontent.com/AntoRosaless/AntoRosaless/main/icons/instagram.png"/></a> 
+<img src="https://raw.githubusercontent.com/Antonella-Rosales/main/instagram.png"/></a> 
 
 <a href = 'https://www.instagram.com/antoorosales_'> <img width = '32px' align= 'center' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 
